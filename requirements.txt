@@ -1,0 +1,9 @@
+requests
+notion-client
+github-heatmap
+retrying
+pendulum
+python-dotenv
+graphviz
+xmind-sdk
+antlr4-python3-runtime
